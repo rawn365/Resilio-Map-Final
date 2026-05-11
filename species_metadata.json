@@ -1,0 +1,58 @@
+{
+  "Penelopides manillae (Boddaert, 1783)": {
+    "common": "Luzon Tarictic Hornbill",
+    "class": "Aves"
+  },
+  "Rhabdornis mystacalis (Temminck, 1825)": {
+    "common": "Stripe-headed Rhabdornis",
+    "class": "Aves"
+  },
+  "Varanus marmoratus (Wiegmann, 1834)": {
+    "common": "Marbled Water Monitor",
+    "class": "Squamata"
+  },
+  "Actenoides lindsayi (Vigors, 1831)": {
+    "common": "Spotted Wood Kingfisher",
+    "class": "Aves"
+  },
+  "Hydrosaurus pustulatus (Eschscholtz, 1829)": {
+    "common": "Philippine Sailfin Lizard",
+    "class": "Squamata"
+  },
+  "Platymantis dorsalis (Dum\u00e9ril, 1853)": {
+    "common": "Philippine Forest Frog",
+    "class": "Amphibia"
+  },
+  "Anas luzonica Fraser, 1839": {
+    "common": "Philippine Duck",
+    "class": "Aves"
+  },
+  "Platymantis corrugatus (Dum\u00e9ril, 1853)": {
+    "common": "Corrugated Forest Frog",
+    "class": "Amphibia"
+  },
+  "Ramphiculus marchei (Oustalet, 1880)": {
+    "common": "Flame-breasted Fruit Dove",
+    "class": "Aves"
+  },
+  "Phloeomys pallidus Nehring, 1890": {
+    "common": "Northern Luzon Giant Cloud Rat",
+    "class": "Mammalia"
+  },
+  "Lanius validirostris Ogilvie-Grant, 1894": {
+    "common": "Mountain Shrike",
+    "class": "Aves"
+  },
+  "Batrachostomus septimus Tweeddale, 1877": {
+    "common": "Philippine Frogmouth",
+    "class": "Aves"
+  },
+  "Chelonia mydas (Linnaeus, 1758)": {
+    "common": "Green Sea Turtle",
+    "class": "Reptilia"
+  },
+  "Sanguirana luzonensis (Boulenger, 1896)": {
+    "common": "Luzon Wading Frog",
+    "class": "Amphibia"
+  }
+}
